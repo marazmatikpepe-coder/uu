@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Эмоции",
+    "stickers": [
+      { "name": "Думаю", "url": "https://i.ibb.co/C33FBKBz/Thinking-Face.webp" },
+      { "name": "Слушаю", "url": "https://i.ibb.co/Gv6819Td/Ear.webp" },
+      { "name": "Говорю", "url": "https://i.ibb.co/1GhdNmtz/Speaking-Head.webp" },
+      { "name": "Злюсь", "url": "https://i.ibb.co/TqmRHs0W/Pouting-Face.webp" },
+      { "name": "Хм", "url": "https://i.ibb.co/HDcTKgxC/Face-With-Monocle.webp" },
+      { "name": "Грущу", "url": "https://i.ibb.co/jkwSRTkw/Crying-Face.webp" },
+      { "name": "Упс", "url": "https://i.ibb.co/VsfP9rw/Grinning-Face-With-Sweat.webp" },
+      { "name": "Люблю", "url": "https://i.ibb.co/1BxsL5p/Smiling-Face-With-Hearts.webp" },
+      { "name": "Отличная идея", "url": "https://i.ibb.co/5WMd3txq/Star-Struck.webp" },
+      { "name": "Понял", "url": "https://i.ibb.co/Fk6wnFYS/Winking-Face.webp" },
+      { "name": "Запутался", "url": "https://i.ibb.co/B5BB6YBF/Face-With-Spiral-Eyes.webp" },
+      { "name": "Рад", "url": "https://i.ibb.co/6Rbq4GPd/Beaming-Face-With-Smiling-Eyes.webp" }
+    ]
+  }
+]
